@@ -77,7 +77,8 @@ python store_index.py
 # Finally run the following command
 python app.py
 ```
-
+#for continuous chat run this code 
+python appc.py
 Now,
 ```bash
 open up localhost:
