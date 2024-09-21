@@ -1,0 +1,72 @@
+Input: i have a fever what i need to do 
+Output: You should consult with a medical professional for proper diagnosis and treatment of your fever. They can assess your symptoms, determine the cause of your fever, and provide appropriate medication or other treatments as needed. It's important to seek medical attention if your fever is severe, lasts for an extended period of time, or is accompanied by other concerning symptoms such as difficulty breathing, chest pain, or confusion.
+----------------------------------------
+Input: i have a lump on my head and my neck 
+Output: I understand your concern, but I cannot provide medical advice or diagnose any conditions without conducting a thorough examination. If you are experiencing a lump on your head or neck, it is important to consult with a qualified healthcare professional for proper evaluation and treatment. They will be able to assess the nature of the lump and recommend appropriate course of action. In the meantime, please do not hesitate to seek medical attention if the lump grows in size or becomes painful.
+----------------------------------------
+Input: i have a layer of mist on my eyes what i need to do 
+Output: You should use the ointment for mild to moderate infections as directed. For severe infections, use two drops in the affected eye or eyes every two hours until the condition improves. If you have a layer of mist on your eyes, you may want to consider referring a child to an eye specialist.
+----------------------------------------
+Input: i have a fever what i need to do 
+Output: To help relieve your fever, you can take aspirin according to the recommended dosage for adults on the label or as directed by your doctor. This may help reduce inflammation and lower your body temperature. Additionally, make sure to stay hydrated by drinking plenty of fluids, such as water or clear broth, to help your body cool down.
+----------------------------------------
+Input: i have a fever what i need to do 
+Output: You should see a doctor as soon as possible if you have a fever, especially if it's severe or lasts for an extended period of time. Fever can be a sign of a serious underlying condition that requires medical attention. Additionally, aspirin can help to relieve pain and reduce fever, but it's important to use it as directed by your doctor to avoid any potential side effects.
+----------------------------------------
+Input: expalin about the Diabetes Mellitus
+Output: Diabetes mellitus is a metabolic disease caused by a deficiency of insulin, which is essential to process carbohydrates in the body.
+----------------------------------------
+Input: Hypertension (High Blood Pressure) im experinencing it 
+Output: I don't know how to control hypertension.
+Please consult a medical professional for advice on how to manage this condition.
+----------------------------------------
+Input: can you explain about the Asthma im having it from my childhood days 
+Output: I'm so sorry to hear that you've been experiencing asthma symptoms since your childhood days. It's important to work with a healthcare provider to determine the underlying cause of your asthma, as it can be triggered by a variety of factors such as allergies, environmental exposures, and medical conditions. Based on the information provided in the passage, it seems that allergies to pollen, dust, pets, or other things, as well as exercise, stress, intense emotions, exposure to cold, certain medicines, and some medical conditions can bring on asthma attacks.
+It's important to work with a healthcare provider to develop an asthma action plan that outlines the steps you should take in case of an asthma attack, including how to use your inhaler properly and when to seek emergency medical attention. Additionally, there are several medications available that can help manage asthma symptoms, such as inhaled corticosteroids, bronchodilators, and anti-inflammatory medications.
+Remember, it's important to take your asthma seriously and work with a healthcare provider to manage your symptoms and prevent attacks from occurring. With propert.
+----------------------------------------
+Input:  my friend having the condition named as Chronic Obstructive Pulmonary Disease (COPD) what is that 
+Output: COPD is a chronic lung disease that makes it difficult to breathe, including chronic bronchitis and emphysema. The causes and symptoms of COPD include chronic cough, chest tightness or wheezing, shortness of breath, and fatigue. There are several risk factors for developing COPD, including smoking, exposure to air pollution, and genetic predisposition. Treatment options for COPD include medications such as bronchodilators, corticosteroids, and oxygen therapy, as well as lifestyle changes like quitting smoking and exercising regularly.
+----------------------------------------
+Input:  my colleague experiencing from Osteoarthritis what was that
+Output: Osteoarthritis (OA) is a common joint disorder that affects cartilage, the tissue that cushions the ends of bones in the joints. It occurs when the cartilage breaks down or wears away over time, causing the bones to rub together and cause pain, stiffness, and limited mobility. OA is most common in the weight-bearing joints such as hips, knees, and spine. Treatment options for OA include medication, physical therapy, and lifestyle changes such as exercise and weight loss.
+----------------------------------------
+Input: my cousin as Alzheimer's Disease 
+Output: There is currently no cure for Alzheimer's disease, but there are several medications and therapies that can help manage its symptoms and slow down its progression. These include cholinesterase inhibitors, memantine, and combination therapy. Additionally, lifestyle changes such as regular exercise, a healthy diet, and social engagement can also help manage the disease. It is important to note that Alzheimer's disease is a complex condition, and its causes are not yet fully understood. While researchers have identified several risk factors, including genetics, age, and lifestyle choices, more work needs to be done to understand the underlying biology of the disease and to develop effective treatments.
+----------------------------------------
+Input: Parkinson's Disease
+Output: Parkinson's disease is a neurological disorder caused by the deficiency of dopamine, a neurotransmitter that helps transmit messages between nerves in the brain. It is characterized by muscle weakness in the limbs and face, tremors or palsy, rigid movements, slowness of movement, poor balance and coordination, and can be caused by genetic mutations, environmental toxins, head injuries, or certain medications.
+----------------------------------------
+Input: can you explain about the Epilepsy 
+Output: Yes, I can explain about epilepsy. Epilepsy is a neurological disorder that affects how the brain functions and can cause seizures or convulsions in a person's body. The exact cause of epilepsy varies from person to person, but some common causes include head injuries, brain tumors, infections, and metabolic problems with some genetic problems with some metabolic problems with some metabolic conditions such factors that in rare genetic conditions that'metabolic problems with unknown genetic problems with no known genetic conditions affects metabolic problems with some metabolic problems with some metabolic problems with some metabolic problems with unknown genetic disorders, in some geneternal probems metabolic problems with no known genetic problems with some metabolic problems with some metabolic problems with unknown causes that is not getting a lack of course of metabolic problems with unknown causes that'metabolic problems with unknown factors related conditions such.
+----------------------------------------
+Input: Schizophrenia my friend  having it
+Output: I don't know if your friend is experiencing schizophrenia, as I am not a medical professional and cannot diagnose mental health conditions without extensive training and examination of the individual in question. If you are concerned about your friend's mental health, please encourage them to seek professional help from a licensed therapist or psychiatrist. They can provide a proper evaluation and treatment plan if needed.
+----------------------------------------
+Input: Crohn’s Disease im having on it 
+Output: Crohn's Disease is a type of inflammatory bowel disease (IBD). If you suspect you may have Crohn's Disease, it's important to see a doctor for proper diagnosis and treatment. The symptoms of Crohn's Disease can be similar to those of amebiasis, so it's important to rule out other potential causes of your symptoms through stool samples and blood tests. A sigmoidoscopy may also be necessary to confirm the diagnosis.
+----------------------------------------
+Input: i have a fever what meditation should i take 
+Output: I don't know the best medication for treating a fever without more information about your symptoms and medical history. It's important to consult with a healthcare professional for proper diagnosis and treatment. They can assess your symptoms and determine the appropriate course of action. Taking the wrong medication or not seeking medical attention can lead to serious complications, so it's important to take this seriously and seek help if you have a fever that lasts more than a few days or is accompanied by other concerning symptoms.
+----------------------------------------
+Input: my friend suffering from the Lupus (Systemic Lupus Erythematosus)
+Output: If your friend is experiencing fever, chills, fatigue, weight loss, or skin rashes, they may be suffering from systemic lupus erythematosus (SLE), a chronic autoimmune disorder that can affect various parts of the body. It's important to consult with a doctor or a dermatologist for proper diagnosis and treatment.
+----------------------------------------
+Input: i am having stomach pain and feeling a burning sensation in my upper abdomen. What medications should i take?
+Output: It's important to consult with a medical professional for proper diagnosis and treatment of stomach pain, as they can determine the cause and recommend appropriate medication or other treatments. Taking medication without proper diagnosis can lead to serious complications, so it's always best to seek medical attention first.
+----------------------------------------
+Input: what is llama 2 gpu version
+Output: Barbiturates can cause weakness, sleep problems, nightmares, or increased dreaming as side effects.
+----------------------------------------
+Input: i have a running nose for past 2 days 
+Output: You should take Calcitonin nasal spray according to the instructions provided by your doctor or pharmacist. It is important to use it at least 30 minutes before eating or drinking anything, and to avoid lying down for at least 30 minutes after taking it to minimize the risk of irritation to the esophagus.
+----------------------------------------
+Input: my friend was suffering from one side headache what is the reason for it 
+Output: It's possible that your friend's one-sided headache could be caused by a migraine, which typically causes throbbing pain on one side of the head. However, without more information or a proper medical evaluation, it's difficult to say for sure what might be causing the headache. It could also be another type of headache or even a symptom of a more serious underlying condition. I recommend that your friend consult with a healthcare professional for a proper diagnosis and treatment.
+----------------------------------------
+Input: my uncle was suffered from Hydrocephalus whether it would inherit to his son 
+Output: It is possible for your uncle's son to inherit hydrocephalus, as it is a genetic disorder that can be passed down from parents to their children. However, it depends on whether both parents are carriers of the gene or not. If one parent is a carrier and the other is not, then there is only a 50% chance that the child will inherit the gene. But if both parents are carriers, then there is a 25% chance that the child will inherit hydrocephalus.
+----------------------------------------
+Input: my friend has a lower spinal back pain for past yrs 
+Output: The Alexander technique can help with lower back pain by teaching you how to use your body more efficiently and reduce unnecessary tension. A physical therapist trained in the Alexander technique can work with you to identify and release any patterns of tension that may be contributing to your pain, and teach you exercises to help maintain proper alignment and posture. Additionally, a back brace may be used to provide additional support and stability for the spine during the weaning process.
+----------------------------------------
