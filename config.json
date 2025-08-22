@@ -1,0 +1,34 @@
+{
+  "performance": {
+    "cache_size": 200,
+    "max_new_tokens": 256,
+    "gpu_layers": 35,
+    "batch_size": 8,
+    "context_length": 2048
+  },
+  "multilingual": {
+    "default_language": "en",
+    "auto_detect": true,
+    "supported_languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "nl",
+      "ru",
+      "ja",
+      "ko",
+      "zh",
+      "ar",
+      "hi"
+    ]
+  },
+  "features": {
+    "medical_glossary": true,
+    "audio_responses": true,
+    "performance_monitoring": true,
+    "caching": true
+  }
+}
